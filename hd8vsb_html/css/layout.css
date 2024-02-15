@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* ====================== */
+/* 레이아웃공통   */
+/* ====================== */
+/* ====================== */
+/* 메인   */
+/* ====================== */
+.mainbg {position:absolute; top:0px;left:0px;z-index:0; width: 1920px; height: 1280px;}
+.rightbanner {position:absolute; top:90px;left:1404px;z-index:1;width:423px; height: 864px;overflow: hidden;}
+.bottombanner {position:absolute; top:822px;left:0px;z-index:1;width:1404px; height: 132px;overflow: hidden;}
+.telnumber {position:absolute; top:985px;left:316px;z-index:1;}
